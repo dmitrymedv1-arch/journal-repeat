@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+requests
+tenacity
+ratelimit
+pillow
+xlsxwriter
+openpyxl
+networkx
+reportlab
+
