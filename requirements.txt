@@ -11,4 +11,4 @@ xlsxwriter
 openpyxl
 networkx
 reportlab
-
+nameparser
