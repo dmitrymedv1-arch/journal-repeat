@@ -12,3 +12,6 @@ openpyxl
 networkx
 reportlab
 nameparser
+python-docx
+typing-extensions
+python-dateutil
